@@ -4,7 +4,7 @@ All notable changes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.8.1 (VS QT)] - 2026-11-16
+## [0.8.6 (VS QT)] - 2026-11-16
 
 ### Added
 
@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Changed a few lines of Funkin.js to support mods... I guess-
+- Also added version hotfixes from the latest Funkin' update
 
 ### Fixed
 
