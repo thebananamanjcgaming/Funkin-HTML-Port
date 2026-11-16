@@ -4,6 +4,20 @@ All notable changes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.8.1 (VS QT)] - 2026-11-16
+
+### Added
+
+- Added a mods folder with the QT mod included
+
+### Changed
+
+- Changed a few lines of Funkin.js to support mods... I guess-
+
+### Fixed
+
+- Well... you got me, dang it! I am one man after all, huh.
+
 ## [0.8.1] - 2026-01-04
 
 ### Added
